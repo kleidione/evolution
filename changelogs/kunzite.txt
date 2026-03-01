@@ -3,9 +3,9 @@ This is Android 17 QPR0 with September 2026 security patches
 Device changes:
 
 - Synced with upstream source repository.
-- Add OTA support.
-- Fix QS clock layout.
-- Add expressive dynamic theme for AppDataBackup.
+- Tune CPU, GPU and scheduler parameters.
 - Update more pt-BR translations.
+- Fix nits discrepancy between overlay and displayconfig
+- Tweak audio props
 
 Enjoy the new update!
