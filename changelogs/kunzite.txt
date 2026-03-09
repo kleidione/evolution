@@ -1,11 +1,12 @@
-This is Android 17 QPR0 with September 2026 security patches
+This is Android 17 QPR0 with October 2026 security patches
 
 Device changes:
 
 - Synced with upstream source repository.
-- Tune CPU, GPU and scheduler parameters.
-- Update more pt-BR translations.
-- Fix nits discrepancy between overlay and displayconfig
-- Tweak audio props
+- Add support Kernel SU Next
+- Re-extracted powerhint
+- Improved auto-brightness
+- Solved audio SELinux denials policy
+- Updated more pt-BR translations
 
 Enjoy the new update!
