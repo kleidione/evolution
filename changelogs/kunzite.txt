@@ -2,11 +2,14 @@ This is Android 17 QPR0 with October 2026 security patches
 
 Device changes:
 
-- Synced with upstream source repository.
-- Add support Kernel SU Next
-- Re-extracted powerhint
-- Improved auto-brightness
-- Solved audio SELinux denials policy
-- Updated more pt-BR translations
+- Synced with upstream source repository
+- Updated from OS3.0.304.0.WPQMIXM
+- Upstream Xiaomi kernel
+- Added MIUI Camera
+- Boosted big cluster and scheduler on INTERACTION
+- Fixed GPS-assisted location (XTRA/LOWI) for faster and more accurate fix
+- Fixed Wi-Fi and Bluetooth MAC address handling
+- Fixed Bluetooth A2DP offload capabilities (LDAC/aptX/AAC)
+- Resolved more SELinux denials (Wi-Fi, RIL, camera, sensors)
 
 Enjoy the new update!
