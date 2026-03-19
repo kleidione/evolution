@@ -3,8 +3,8 @@ This is Android 17 QPR0 with the October 2026 security patches.
 Device changes:
 
 - Synced with the latest upstream source repository
-- Added 4K 30fps video recording support for MiuiCamera
-- Dropped 120Hz refresh rate (the fix depends on the kernel, which we don't have yet)
-- Improved fingerprint detection
+- Boost GPU and DDR floors on INTERACTION/LAUNCH
+- Removed MiuiCamera from permissive domain
+- Drop SandBox app
 
 Enjoy the new update!
