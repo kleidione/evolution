@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+      "maintainer": "kleidione Freitas",
+      "currently_maintained": false,
+      "oem": "xiaomi",
+      "device": "kunzite",
+      "filename": "EvolutionX-17.0-20260926-kunzite-12.2-Community.zip",
+      "download": "https://sourceforge.net/projects/kunzite-files/files/evolution/EvolutionX-17.0-20260926-kunzite-12.2-Community.zip/download",
+      "timestamp": 1790449019,
+      "md5": "271e0b923d543390e1ab01f1215e2eda",
+      "sha256": "8d3a490c0353ca5e651eeff393ab4dd481efd42fd270c3c8407b95e4ade37fe8",
+      "size": 3205642862,
+      "version": "12.2",
+      "buildtype": "userdebug",
+      "forum": "",
+      "firmware": "https://xmfirmwareupdater.com/firmware/kunzite/",
+      "paypal": "",
+      "github": "https://github.com/kleidione",
+      "initial_installation_images": [],
+      "extra_images": []
+    }
+  ]
+}
