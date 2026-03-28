@@ -1,8 +1,11 @@
 This is Android 17 QPR0 with September 2026 security patches
 
 Device changes:
-==============================
+
 - Synced with upstream source repository.
-- Fully translated into Brazilian Portuguese (pt-BR 100%).
-- Removed all hardcoded strings for better localization support.
-- Added support for Redmi and POCO devices.
+- Add OTA support.
+- Fix QS clock layout.
+- Add expressive dynamic theme for AppDataBackup.
+- Update more pt-BR translations.
+
+Enjoy the new update!
