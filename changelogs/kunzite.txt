@@ -3,9 +3,8 @@ This is Android 17 QPR0 with the October 2026 security patches.
 Device changes:
 
 - Synced with the latest upstream source repository
-- Enabled ADPF and boosted GPU/DDR on interaction
-- Resolved batterysecret sepolicy denial
-- Enabled pocket sensor
-- Implemented torch light control
+- Restored the 120Hz refresh rate
+- Redesigned Settings and graphic equalizer UI
+- Enable suspend when screen off due to proximity
 
 Enjoy the new update!
