@@ -1,24 +1,24 @@
 {
   "response": [
     {
-      "maintainer": "kleidione Freitas",
+      "maintainer": "Kleidione Freitas",
       "currently_maintained": false,
       "oem": "Xiaomi",
       "device": "REDMI Note 15 5G / POCO M8 5G",
-      "filename": "EvolutionX-17.0-20261029-kunzite-12.3-Community.zip",
-      "download": "https://sourceforge.net/projects/kunzite-files/files/evolution/EvolutionX-17.0-20261029-kunzite-12.3-Community.zip/download",
-      "timestamp": 1793278810,
-      "md5": "71665f17407e3160edcc1b67c3c683d2",
-      "sha256": "9f25e56290163f050c0b8c81555a8dd54911b35ddad791b95950c1fdf20f602b",
-      "size": 3256655547,
-      "version": "12.3",
+      "filename": "EvolutionX-17.0-20261105-kunzite-12.4-Community.zip",
+      "download": "https://sourceforge.net/projects/kunzite-files/files/evolution/EvolutionX-17.0-20261105-kunzite-12.4-Community.zip/download",
+      "timestamp": 1793878018,
+      "md5": "824e590a99ea4ce7041b452025f2d49c",
+      "sha256": "39bba58812286c21274bc7a5e7d2cbec7c2fd585d59face1e357f12b279a83b5",
+      "size": 3256350904,
+      "version": "12.4",
       "buildtype": "userdebug",
       "forum": "",
       "firmware": "https://xmfirmwareupdater.com/firmware/kunzite/",
       "paypal": "",
       "github": "https://github.com/kleidione",
       "initial_installation_images": [
-        "recovery"
+        "Recovery"
       ],
       "extra_images": []
     }
