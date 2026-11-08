@@ -3,9 +3,8 @@ This is Android 17 QPR0 with the November 2026 security patches.
 Device changes:
 
 - Synced with the latest upstream source repository
-- Updated security patch to November
-- Fixed issues related to biometrics on some variants
-- Improved audio experience with Dolby Atmos
-- Added support for charging control
+- Added Duck RKP
+- Solved denial mi thermal
+- Dropped MiuiCamera
 
 Enjoy the new update!

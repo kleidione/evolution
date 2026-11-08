@@ -5,12 +5,12 @@
       "currently_maintained": false,
       "oem": "Xiaomi",
       "device": "REDMI Note 15 5G / POCO M8 5G",
-      "filename": "EvolutionX-17.0-20261105-kunzite-12.4-Community.zip",
-      "download": "https://sourceforge.net/projects/kunzite-files/files/evolution/EvolutionX-17.0-20261105-kunzite-12.4-Community.zip/download",
-      "timestamp": 1793878018,
-      "md5": "824e590a99ea4ce7041b452025f2d49c",
-      "sha256": "39bba58812286c21274bc7a5e7d2cbec7c2fd585d59face1e357f12b279a83b5",
-      "size": 3256350904,
+      "filename": "EvolutionX-17.0-20261108-kunzite-12.4-Community.zip",
+      "download": "https://sourceforge.net/projects/kunzite-files/files/evolution/EvolutionX-17.0-20261108-kunzite-12.4-Community.zip/download",
+      "timestamp": 1794174796,
+      "md5": "77a76c41fe9aea8b9cc4f38d1a0b941a",
+      "sha256": "d4829e3e56b36c9b4e1f49eef380345cd9cc28d8f8d82045f377e0271c1f6c28",
+      "size": 3197746285,
       "version": "12.4",
       "buildtype": "userdebug",
       "forum": "",
@@ -18,7 +18,7 @@
       "paypal": "",
       "github": "https://github.com/kleidione",
       "initial_installation_images": [
-        "Recovery"
+        "recovery"
       ],
       "extra_images": []
     }
